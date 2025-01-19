@@ -24,6 +24,6 @@ pip install pytest-xdist
 ## to run the -xdist
 pytest -n auto filename -s -v
 
-## To work on the excel or csv file
+## To work on the Excel or csv file
 ##install the openpyxl
 pip install openpyxl
